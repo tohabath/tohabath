@@ -18,7 +18,7 @@ My name is Jacob! I've been learning several different environments for programm
 - Twine
 ### I also have experience in soft skills such as leadership, communication, and teammwork!
 ## Works and References
-For technical projects, you can check out my [portfolio](https://github.com/tohabath/Online-Portfolio)!
+For technical work, you can check out my [portfolio](https://github.com/tohabath/Online-Portfolio)!
 
 You can also look at [Block Pusher](https://github.com/tohabath/group_project), a game I directed and developed with a small team.
 
